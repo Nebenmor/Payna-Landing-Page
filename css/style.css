@@ -17,3 +17,7 @@
     --dark-gray: #070F18;
 }
 
+html {
+    font-size: 62.5%; /* 1rem = 10px */
+    overflow-x: hidden;
+}
