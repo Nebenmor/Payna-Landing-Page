@@ -17,6 +17,24 @@
     --dark-gray: #070F18;
 }
 
+@font-face {
+    font-family: 'Poppins';
+    src: url(../Fonts/Poppins/Poppins-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../Fonts/Poppins/Poppins-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../Fonts/Poppins/Poppins-Regular.ttf);
+    font-weight: 400;
+}
+
 html {
     font-size: 62.5%; /* 1rem = 10px */
     overflow-x: hidden;
