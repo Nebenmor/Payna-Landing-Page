@@ -9,3 +9,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+:root {
+    --bg-color: #fff;
+    --text-color: #575455;
+    --black-color: #000;
+    --red-color: #F75C4E;
+    --dark-gray: #070F18;
+}
+
