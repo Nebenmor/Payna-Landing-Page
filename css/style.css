@@ -107,3 +107,7 @@ header a.btn-1 {
     transition: 0.5s ease;
 }
 
+header a.btn-1:hover {
+    background: var(--red-color);
+    color: white;
+}
