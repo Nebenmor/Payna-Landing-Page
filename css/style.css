@@ -75,3 +75,9 @@ header .logo img {
 
 }
 
+header .logo h2 {
+    font-weight: 600;
+    font-size: 2.8rem;
+    color: var(--dark-gray);
+}
+
