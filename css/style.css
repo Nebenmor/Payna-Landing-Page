@@ -96,3 +96,14 @@ header .navbar a:hover {
     color: var(--red-color)
 }
 
+header a.btn-1 {
+    display: inline-block;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--dark-gray);
+    background: var(--gray-button-color);
+    padding: 16px 48px;
+    border-radius: 5rem;
+    transition: 0.5s ease;
+}
+
